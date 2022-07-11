@@ -149,7 +149,7 @@
   /* End Header */
   /* Start Landing Section */
   .landing {
-    background-image: url(./css/images/pexels-lina-kivaka-12310381.jpg);
+    background-image: url(/css/images/pexels-lina-kivaka-12310381.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     background-position: center;
